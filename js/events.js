@@ -1,10 +1,10 @@
 //define functions here
 
-function getIT(){
+function getIt(){
   alert ('Hey!');
   
 }
-  function frameIT() {
+  function frameIt() {
     $("img").addClass("tasty");
   }
   function pressIt(){
